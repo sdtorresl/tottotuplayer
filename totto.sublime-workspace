@@ -1,0 +1,1240 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"NO",
+				"no-repeat"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"data",
+				"dataOut"
+			],
+			[
+				"ou",
+				"out"
+			],
+			[
+				"cl",
+				"clr"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"o",
+				"out"
+			],
+			[
+				"e",
+				"ext"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"T",
+				"TARDES"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"rb",
+				"rgba	rgba()"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"up",
+				"updateMetadata"
+			],
+			[
+				"a",
+				"artist"
+			],
+			[
+				"met",
+				"updateMetadata"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"http",
+				"httpGet"
+			],
+			[
+				"str",
+				"streamingURL"
+			],
+			[
+				"tr",
+				"trackInfo"
+			],
+			[
+				"htt",
+				"httpGet"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"s",
+				"scripts"
+			],
+			[
+				"stream",
+				"stream01"
+			],
+			[
+				"ca",
+				"catid"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"loa",
+				"loadResult"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"v",
+				"valid"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"fil",
+				"filePath"
+			],
+			[
+				"Strin",
+				"String"
+			],
+			[
+				"St",
+				"String"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"mysql_",
+				"mysql_affected_rows"
+			],
+			[
+				"home",
+				"home_id"
+			],
+			[
+				"REt",
+				"returnMessage"
+			],
+			[
+				"ro",
+				"room_id"
+			],
+			[
+				"hom",
+				"home_id"
+			],
+			[
+				"mysql_fetch_a",
+				"mysql_fetch_assoc"
+			],
+			[
+				"ec",
+				"encrypted"
+			],
+			[
+				"enc",
+				"encrypted_password"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"clo",
+				"Close"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"succ",
+				"SUCCESS"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"ECH",
+				"echo"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"RE",
+				"result"
+			],
+			[
+				"EC",
+				"echo"
+			],
+			[
+				"Ret",
+				"returnMessage"
+			],
+			[
+				"DB",
+				"DB_DATABASE"
+			],
+			[
+				"userE",
+				"isUserExisted"
+			],
+			[
+				"RET",
+				"returnMessage"
+			],
+			[
+				"ret",
+				"returnMessage"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"DB_",
+				"DB_PASSWORD"
+			],
+			[
+				"MY",
+				"my_home"
+			],
+			[
+				"MYS",
+				"mysqlpass"
+			],
+			[
+				"Conne",
+				"connection"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"p",
+				"playlist"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"se",
+				"sans-serif"
+			],
+			[
+				"htm",
+				"HTML5"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"P1_",
+				"P1_5"
+			],
+			[
+				"Ia",
+				"Ia_rms"
+			],
+			[
+				"Va",
+				"Va_rms"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 4523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 2111,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"mo",
+				"Snippet: module"
+			],
+			[
+				"mod",
+				"Snippet: module"
+			],
+			[
+				"module",
+				"Snippet: module"
+			],
+			[
+				"sni",
+				"Snippet: Generates a unique ID."
+			],
+			[
+				"sn",
+				"Snippet: Converts &, <, >, \", and ' to characters."
+			],
+			[
+				"snip",
+				"Snippet: Checks if value is a boolean value."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet:module",
+				"Snippet: Creates a function that, when called, invokes the method at object[key] and prepends any additional bindKey arguments to those provided to the bound function."
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ser",
+				"SFTP: Edit Server…"
+			],
+			[
+				"setu",
+				"SFTP: Setup Server…"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bre",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"snipp",
+				"Snippet: if __name__ == '__main__'"
+			],
+			[
+				"ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"setup",
+				"SFTP: Setup Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"cas",
+				"Convert Case: Upper Case"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"octa",
+				"Snippet: Octave function"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"snippet fo",
+				"Snippet: Octave function"
+			]
+		],
+		"width": 1084.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/totto/index.php",
+		"/var/www/totto/README.md",
+		"/var/www/totto/templateDetails.xml",
+		"/home/sergio/Documents/Trabajo/Reunión ACIMPRO",
+		"/home/sergio/Documents/ips",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/src/datapath.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/testbench/testControlUnit.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/src/control.v",
+		"/home/sergio/.config/sublime-text-3/Packages/User/case.sublime-snippet",
+		"/home/sergio/.config/sublime-text-3/Packages/User/module.sublime-snippet",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/Makefile",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/src/controlUnit.v",
+		"/home/sergio/.config/sublime-text-3/Packages/User/hello.sublime-snippet",
+		"/home/sergio/Documents/prueba.css",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC May 08/Tarea/src/sevenSegments.v",
+		"/home/sergio/.config/sublime-text-3/Cache/Verilog/Comments (Verilog).tmPreferences.cache",
+		"/home/sergio/.config/sublime-text-3/Cache/Verilog/Verilog.tmLanguage.cache",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/setup.sh",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/player_popsy.py",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/player_ecg.py",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/player.py",
+		"/home/sergio/Documents/Flisol 2014",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/lcd.py",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/config.ini",
+		"/home/sergio/Documents/Trabajo/Reunión JV",
+		"/media/548da502-ebde-45c0-9ab2-de5e2431ee0b/home/pi/ExeaInternetRadio/scripts/player.py",
+		"/home/sergio/Documents/Redes/Tarea",
+		"/home/sergio/Documents/Trabajo/Guia",
+		"/home/sergio/Documents/reu corral",
+		"/home/sergio/Documents/Seguridad Industrial/Mantenimiento preventivo",
+		"/home/sergio/Documents/Vida Activa",
+		"/home/sergio/Downloads/INFORME DE VENTAS A 28 DE ABRIL.xlsm",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Ejercicio/Verilog/testbench/testExample.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Ejercicio/Verilog/Makefile",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Ejercicio/Verilog/src/reg.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Ejercicio/Verilog/src/example.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Example/tri.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Example/reg.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 08/Example/example.v",
+		"/home/sergio/Documents/Seguridad Industrial/Abril 28",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/rasp_pruebas",
+		"/tmp/sublime-sftp-browse-1398440228/rasp_pruebas/home/pi/ExeaInternetRadio/scripts/player.py",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/Control/testbench/testControler.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/Control/Makefile",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/Control/src/controler.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/Control/testbench/testControl.v",
+		"/home/sergio/Programming/JavaFX/ExeaMusicPlayer/Player/src/player/Player.css",
+		"/home/sergio/Downloads/fxcomparer-1.0.2-jfx/fxml/layout.fxml",
+		"/home/sergio/Downloads/fxcomparer-1.0.2-jfx/styles/style.bss",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Mar 27/Tarea/BCD to 7 segments/Verilog/sevenSegments.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM 2/Makefile",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM 2/testbench/testControl.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM 2/src/control.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM/Verilog/testbench/testDataPath.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM/Verilog/Makefile",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM/Verilog/src/datapath.v",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Especificaciones del comportamiento deseado",
+		"/home/sergio/Documents/Arquitectura de Computadores/AC Abr 21/Ejercicio/FSM/Verilog/sim/testDataPath.v",
+		"/home/sergio/Programming/JavaFX/ExeaMusicPlayer/Player/src/player/Player.fxml",
+		"/home/sergio/Programming/JavaFX/ExeaMusicPlayer/Player/src/player/ExeaMusicPlayer.fxml",
+		"/home/sergio/Documents/Seguridad Industrial/Abril 21",
+		"/tmp/sublime-sftp-browse-1396654290/el01/home/empsync/Sites/sites/tottoplayer/modules/custom/exea_audio_player/exea_audio_player.module",
+		"/tmp/sublime-sftp-browse-1396654480/el01/home/empsync/Sites/sites/tottotuplayer/modules/custom/exea_audio_player/exea_audio_player.module",
+		"/tmp/sublime-sftp-browse-1396654528/el01/home/empsync/Sites/sites/tottotuplayer/modules/custom/exea_audio_player/js/exea_audio_player.js",
+		"/tmp/sublime-sftp-browse-1396654428/el01/home/empsync/Sites/sites/tottoplayer/modules/custom/exea_audio_player/js/exea_audio_player.js",
+		"/var/www/mallplaza/img/logo.png",
+		"/var/www/mallplaza/img/icon-play.png",
+		"/var/www/mallplaza/css/blue.monday/jplayer.blue.monday.jpg",
+		"/var/www/energiafmplayer/js/main.js",
+		"/var/www/energiafmplayer/index.php",
+		"/var/www/mallplaza/css/main.css",
+		"/var/www/mallplaza/index.php",
+		"/var/www/mallplaza/css/blue.monday/jplayer.blue.monday.css",
+		"/var/www/mallplaza/js/jplayer.js",
+		"/home/sergio/Downloads/Demo/jQuery.jPlayer.2.6.0.demos/demo-02-bm.htm",
+		"/var/www/mallplaza/js/main.js",
+		"/home/sergio/Sites/Joomla/metadata/index.php",
+		"/tmp/fz3temp-1/mod_segmentation.php",
+		"/tmp/fz3temp-1/mod_case_studies2.php",
+		"/tmp/fz3temp-1/mod_articles_news.php",
+		"/tmp/fz3temp-1/mod_case_studies.php",
+		"/home/sergio/Sites/energiafmplayer/css/main.css",
+		"/usr/share/applications/kde4/ktorrent.desktop",
+		"/tmp/sublime-sftp-browse-1389031670/el01/var/www/vhost/drupal-7.22/sites/aguilaenvivo/modules/custom/aguila_audio_player/aguila_audio_player.module",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/default/latest_item.php",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest_item.php",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/latest.php",
+		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-02-multi-pf.htm",
+		"/home/sergio/Downloads/jQuery.jPlayer.2.5.0.demos/demo-08-pf.htm",
+		"/home/sergio/Sites/Joomla/components/com_k2/templates/player/item.php",
+		"/home/sergio/Sites/energiafmplayer/templateDetails.xml",
+		"/home/sergio/Sites/energiafmplayer/index.php",
+		"/home/sergio/Sites/energiafmplayer/img/bg-contact.png",
+		"/home/sergio/Sites/energiafmplayer/index.html",
+		"/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/usr/share/xbmc/userdata/RssFeeds.xml",
+		"/home/sergio/Programming/Java/Permutador/permutaciones.java",
+		"/tmp/sublime-sftp-browse-1388453765/el02/var/www/vhosts/public/energia/cali/reproductor/index.html",
+		"/tmp/sublime-sftp-browse-1388452868/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/home/sergio/Documents/Trabajo/Player for raspberry/lib/Raspberry_conn.mod",
+		"/tmp/sublime-sftp-browse-1388259838/raspberry/home/pi/myhome/myhome.py",
+		"/tmp/sublime-sftp-browse-1388259111/raspberry/home/pi/myhome/main.py",
+		"/tmp/sublime-sftp-browse-1388083673/raspberry/home/pi/myhome/main.py",
+		"/home/sergio/.config/sublime-text-3/Packages/User/sftp_servers/raspberry",
+		"/tmp/sublime-sftp-browse-1388081771/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
+		"/home/sergio/.xbmc/userdata/RssFeeds.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Home.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/tmp/sublime-sftp-browse-1387490028/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/addon.xml",
+		"/tmp/sublime-sftp-browse-1387492861/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/tmp/sublime-sftp-browse-1387485170/raspberry/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/720p/Font.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/tmp/sublime-sftp-browse-1387283530/raspberry/home/pi/ExeaMediaPlayer/scripts/setup.sh",
+		"/tmp/sublime-sftp-browse-1387283920/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Home.xml",
+		"/tmp/sublime-sftp-browse-1387284232/raspberry/usr/share/xbmc/addons/skin.confluence/720p/Startup.xml",
+		"/tmp/sublime-sftp-browse-1387283833/raspberry/usr/share/xbmc/addons/skin.confluence/720p/VideoFullScreen.xml",
+		"/tmp/sublime-sftp-browse-1387283276/raspberry/home/pi/.xbmc/userdata/guisettings.xml",
+		"/home/sergio/ExeaMediaPlayer/INSTALL.txt",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/home/pi/exeamediaplayer/xbmc/Startup.xml",
+		"/home/sergio/ExeaMediaPlayer/scripts/player.py",
+		"/home/sergio/ExeaMediaPlayer/scripts/syncfiles.sh",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/etc/rc.local",
+		"/home/sergio/ExeaMediaPlayer/xbmc/guisettings.xml",
+		"/media/sergio/62ba9ec9-47d9-4421-aaee-71dd6c0f3707/home/pi/exeamediaplayer/scripts/player.py",
+		"/home/sergio/ExeaMediaPlayer/xbmc/DialogBusy.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"png",
+			"testControl",
+			"SevenSegments",
+			"notic",
+			"testSevenSegments",
+			"get_q",
+			"get_cu",
+			"get",
+			"jp-mute",
+			"mute-hov",
+			"mute",
+			"460",
+			"#eee",
+			"jp-tit",
+			"rgb(255,34,34)",
+			"stop",
+			"main.css",
+			"stre",
+			"stream0",
+			"stre",
+			"album",
+			"aguila_audio_player_variable_get",
+			"netw",
+			"div",
+			"netw",
+			"asi",
+			"facebookShare",
+			"text-de",
+			"podc",
+			"overflow: none;",
+			"player",
+			"latestItemCon",
+			"li",
+			"latestItemBody",
+			"latestItemsContainer",
+			"\"img/",
+			"contactT",
+			"#contac",
+			"img",
+			"—",
+			"GTACTAACCGTCCGACGATGTAGCTTAATCTGCCATCCGTTATCCCGACCAAAGACCTGGCGGGGTAT--CTCA-AAGATAACATGCTGACATCGCTCCACAGACCGGTCACTNGATCTACCAGTGCGGTGGTATCGACAAGCGAACCATCGAGAAGTTCGAGAAGGTTAGTTAC-TTTCCCTTCGATCGCGCGTC-CT-------TTG------CCCATCGATTCTCCATA------CGACTCGAAACGTGCCCGCTACCCCGCTCGAGACC-AAAAATTTTGCGATATGACCGTAATTTTTTT---GGTGGGGCTT-TTACCCCGCCACTCGAGCGATGCGCGTTTCTGCCCTCTCA----TTTCCACAACCT--------TC-TG-AGCGCATCGTCACGTGTTAAGCAGTCACTAACCA-TTCGACAATAGGAAGCCGCTGAGCTCGGTAAGGGTTCCTTCAAGTACGCCTGGGTTCTTGACAAGCTCAAGGCCGAGCGTGAGCGTGGTATCACCATCGATATTGCTCTCTGGAAGTTCGAGACTCCTCGCTACTATGTCACCGTCATTGGTATGTTGCCGCT--CATGCCTCGTTCTCCCTTTATTCGTACTAACATATTACTCAGACGCTCCCGGTCATCGTGGCCCCCTTTCGCGACATGCCCTCACTGGTCGAATGCGAT-CGTCAAATTCATACCAACAGAGTCT-CGAATGAATATACACGACCGC-ATCCGCATTATTTGGGGCACACGTAGCCGATAAAA-CATGGGCTAAAC------------ATTCACTACAGGTCAAATCACCACCAAGGAGCTTGGAACCGTCATGCGCTCTCTCGGCCAGAACCCCTCCGAGTCTGAGCTTCAGGATATGATCAACGAGGTCGACGCTGACAATAACGGCACCATCGACTTCCCTGGTGCGTCATTTCCTAAGCTGATTACAGAGTGA-CAAGACTGACATTGGAG--AAAAGAGTTCCTTACCATGATGGCGCGCAAGATGAAGGACACCGACTCTGAGGAGGAGATCCGCGAGGCTTTCAAGGTTTTCGACCGTGACAACAACGGCTTCATTTCCGCTGCCGAACTCCGACATGTCATGACCTCCATTGGTGAGAAGCTCACCGATGACGAGGTTGATGAGATGATCCGGGAGGCTGACCAGGACGGTGATGGCCGAATCGACTGTGAGTTGCT-TACGGACAGCTCGCTTC-AAGGCTGGTAAGTCTTC--ACCGCGACT-TCAACTCGACGCGACACGCGTCTT---GGTCCATCAAAAACACCACCA-CTAACTTCATCACCAACAGCCCGCAAGTCCGCCCCATCCACCGGAGGTGTCAAGAAGCCTCACCGCTACAAGCCTGGTACCGTCGCTCTCCGTGAGATTCGACGATACCAGAAGTCGACTGAGCTCCTCATCCGAAAGCTCCCCTTCCAGCGCCTGGTAAGCATCACCTGC-TACATCAAC--CACAGCCTGACACATACTAACATTTGACAAACAGGTCCGCGAGATTGCCCAGGACTTCAAGTCTGATCTCCGCTTCCAGTCTTCCGCCATCGGTGCTCTCCAGGAGTCTGTCGAGTCCTACCTCGTCTCCCTCTTCGAGGATACCAACCTCTGTGCCATCCACGCCAATCGACAGCAATGGTGTCTACAA---CGGTACCTCCGAGCTCCAGCTCGAGCGTATGAGTGTCTACTTCAACGAGGTATGC-TTTA-ACAGTCAATGCCAAG-AATTCC-CAAGCTCACACAACTAGGCTCGGCGG---ATCAGCCCGCTCCCGGTAAAACGGGACGGCCC-GCCAGAGGACCCCTAAACTCT---GTTTCTATA-TGTAACTTCTGAGTAAAACCA-TAAATAAATCAAAAC--TTTCAACAACGGATCTCTTGGTTC-TGGCATCGATGAAGAACGCAGCAAAATGCGATAAGTA-ATGTGAA-TTGCAGAATTCAGTGAATCATCGAATCTTTGAACGCACATTGCGCCCGCCAGTAT--TCTGGCGGGCATGCCTGTTCGAGCGTCATTTCAACCCTCAAGCCC---AGCTTGGTGTTGGGACTCG-CGAGT------------TAAATCGCGTTCCCTCAAATTGATTGGCGGTCACGTCG-AGC",
+			"pin_array_13x2",
+			"13x2",
+			"ser",
+			"False",
+			"True",
+			"640",
+			"630",
+			"rss",
+			"whe",
+			"exeamediaplayer",
+			"cons",
+			"CREATE",
+			"home",
+			"$db",
+			"name",
+			"returnMessage",
+			"returnError",
+			"POST",
+			"HEADE",
+			"Done",
+			"Building Blocks",
+			"Buil",
+			"0e0e0e",
+			"7d7e7d",
+			"222b2d",
+			"-->",
+			"Caball",
+			"caba",
+			"cabañ",
+			"&iacute;",
+			"Bogot&aacute;",
+			"HTML5",
+			"23",
+			"Faceboo",
+			"Facboo",
+			"player",
+			"pod",
+			"poc",
+			"face",
+			"fact",
+			"size",
+			"programm",
+			"shift_s",
+			"toggle",
+			"comm",
+			"comme",
+			"div.",
+			"div#",
+			"max-height:",
+			"max-width:",
+			"Boxes",
+			"-b",
+			"upper-boxes",
+			"exea_audio_player_get_song",
+			"db",
+			"db_se",
+			"admin",
+			"exea_audio_player_get_song",
+			"get_curr",
+			"Ic2",
+			"Ib2",
+			"Ia2",
+			"unsigned char",
+			".ong",
+			".pdf",
+			"Iout(:, 1)",
+			"Ic",
+			"Ib",
+			"Ia",
+			"2,1",
+			"\"",
+			"exeamediaplayer",
+			"sudo "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"testControlUnit",
+			"Control",
+			"testDataPath",
+			"rgba(255,255,255,0.5)",
+			"rgba(255,255,255,0.5);",
+			"rgb(216,2,27)",
+			"overflow: hidden;",
+			"\"<?php echo $this->baseurl ?>/templates/<?php echo $this->template; ?>/img/",
+			"--",
+			"raspberry_conn",
+			"serialport",
+			"xbee",
+			"True",
+			"False",
+			"650",
+			"640",
+			"ExeaMediaPlayer",
+			"$functions",
+			"fullName",
+			"$db->returnMessage",
+			"db->returnMessage",
+			"returnMessage",
+			"GET",
+			"Aceptar",
+			"Titanes del Ajedrez",
+			"2c393b",
+			"222b2d",
+			"",
+			"í",
+			"Bogotá",
+			"<acronym title=\"HyperText Markup Language 5\">HTML5</acronym>",
+			"<acronym title=\"HyperText Markup Language 5\">HTML</acronym>",
+			"playerContainer",
+			"program",
+			".",
+			"#",
+			"height:",
+			"width:",
+			"Boxes box",
+			"B",
+			"upperBoxes",
+			"Icp",
+			"Ibp",
+			"Iap",
+			"char",
+			".png",
+			".ong",
+			"Iout(:, i)",
+			"Ic1",
+			"Ib1",
+			"Ic1",
+			"Ia1",
+			"1,2",
+			"'",
+			"ExeaMediaPlayer",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1136,
+								1136
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3517,
+								3517
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1683.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1932,
+								1932
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 1326.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "totto.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 253.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

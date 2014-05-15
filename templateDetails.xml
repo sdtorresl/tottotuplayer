@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="template">
+
+        <name>tottoplayer</name>
+        <name>Totto Player Template</name>
+        <creationDate>2014-14-05</creationDate>
+        <author>Sergio Daniel Torres</author>
+        <authorEmail>storres@exeamedia.com</authorEmail>
+        <authorUrl>http://www.exeamedia.com</authorUrl>
+        <copyright>Exea Media 2014</copyright>
+        <license>GNU/GPL</license>
+        <version>1.0.2</version>
+        <description>Template for player of Energia FM</description>
+        <files>
+                <filename>index.php</filename>
+                <filename>templateDetails.xml</filename>
+                <folder>img</folder>
+                <folder>images</folder>
+                <folder>css</folder>
+                <folder>js</folder>
+        </files>
+        <positions>
+                <position>logo</position>
+                <position>programs</position>
+                <position>news</position>
+                <position>podcasts</position>
+                <position>contact</position>
+                <position>footer</position>
+        </positions>
+</extension>

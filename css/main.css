@@ -1,0 +1,115 @@
+@font-face {
+	font-family: impact;
+	src: url(../fonts/impact.ttf);
+}
+html, body { 
+	display: table;
+	height: 100%;
+	width: 100%;
+	font-family: impact;
+	color: #333;
+}
+#mainContainer {
+	display: table-cell;
+	vertical-align: middle;
+	height: 100%;
+	background: #eef;
+}
+#playerContainer {
+	background: rgb(236,30,40);
+	background-image: url('../img/red-bg-stars.png');
+	width: 600px;
+	height: 140px;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #888888;
+}
+#controlContainer {
+	display: table-cell;
+	vertical-align: middle;
+}
+#controlContainer>div {
+	float: left;
+	background: white;
+	width: 90px;
+	height: 90px;
+	margin-left: 20px;
+	border-radius: 100%;
+}
+#controlContainer>div>img {
+	margin-top: 7px;
+	width: 75px;
+}
+
+#infoContainer {
+	width: 300px;
+	float: left;
+	margin-top: 5px;	
+}
+#info {
+	background: url('../img/yellow-bg-begin.png'), url('../img/yellow-bg-middle.png'), url('../img/yellow-bg-end.png');
+	background-repeat: no-repeat, no-repeat, no-repeat;
+	background-position: 0 0, 50% 1px, 100% 0;
+	-webkit-background-size: 15% 100%, 70% 100%, 15% 100%;
+	background-size: 15% 100%, 70% 100%, 15% 100%;
+	height: 90px;
+}
+#infoBackground {
+	height: 85px;
+	width: 285px;
+	background-image: url('../img/info-bg.png');
+	background-repeat: repeat-x;
+	-webkit-background-size: 150px 100%;
+	background-size: 340px 100%;
+	background-position: 0 5px;
+	border-radius: 95px;
+	margin-left: 5px;
+}
+#currentSong {
+	padding-left: 30px;
+	padding-top: 15px;
+}
+#artist {
+	border-bottom: 2px solid rgb(236,30,40);
+	padding-bottom: 5px;
+	width: 90%;
+}
+#song {
+	padding-top: 5px;
+	width: 90%;
+}
+.volume {
+	margin-top: 10px;
+}
+.volumeControl {
+	height: 20px;
+}
+#logoContainer {
+	width: 180px;
+	background: none repeat scroll 0% 0% #FFF;
+	float: right;
+	border-radius: 120px 0px 0px 120px;
+	height: 140px;
+}
+#logo img {
+	margin-top: 10px;
+	width: 130px;
+	float: right;
+	margin-right: 10px
+}
+.followUs {
+	float: right;
+}
+.followUs p {
+	margin-right: 10px;
+	margin-top: 5px;
+}
+.followUs a {
+	text-decoration: none;
+}
+.socialIcon {
+	max-width: 20px;
+	margin-left: 5px;
+}
