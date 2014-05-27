@@ -2,9 +2,8 @@
 $(document).ready(function() {
     
     var stream = {
-        title: "Energia FM",
-        // mp3: "http://stream02.exeamedia.com:8000/energiaweb02.mp3"
-        mp3: "http://stream02.exeamedia.com:8000/elcorralwidgetyrespaldo"
+        title: "Totto Radio",
+        mp3: "http://stream.exeamedia.com/tottorelay"
     },
     ready = false;
 
@@ -32,68 +31,15 @@ $(document).ready(function() {
     });
 });
 
-// Facebook functions
-(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-// Twitter functions
-!function(d,s,id){
-    var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';
-    if(!d.getElementById(id)){
-        js=d.createElement(s);
-        js.id=id;js.src=p+"://platform.twitter.com/widgets.js";
-        fjs.parentNode.insertBefore(js,fjs);
-    }
-}(document,"script","twitter-wjs");
-
 (function($){
     $(window).load(function(){
-        // Custom scrollbar for news
-        $("#newsContainer").mCustomScrollbar();
-
-        // Put styles for tweets tittle
-        setTimeout(function() {
-            var $head = $("#twitter-widget-0").contents().find("head");                
-            $head.append($("<link/>", { rel: "stylesheet", href: '//fonts.googleapis.com/css?family=Podkova:400,700', type: "text/css" }));
-        }, 1); 
-
-        setTimeout(function(){
-            $("#twitter-widget-0").contents().find('h1.summary a').css("font-size", "20px");
-            $("#twitter-widget-0").contents().find('h1.summary a').css("font-family", "'Podkova', Sans-Serif");
-            $("#twitter-widget-0").contents().find('h1.summary a').css("color", "#49524C");
-            $("#twitter-widget-0").contents().find('h1.summary a').css("text-transform", "uppercase");
-            $("#twitter-widget-0").contents().find('h1.summary a').css("text-decoration", "none");
-            $("#twitter-widget-0").contents().find('h1.summary a').css("padding-left", "10px");
-        }, 500);
-
-        // Get info of the actual track
-        //setInterval("updateMetadata()", 10000);   
+        $('#jquery_jplayer_1').jPlayer("play");
+        updateMetadata();
+        // Get info of the current track
+        setInterval("updateMetadata()", 20000);   
     });
 })(jQuery);
 
-/** Get cover image with the artist name 
- *  and te track and change it in the player
- */ 
-function changeCover(artist, track) {
-    var cover;
-
-    var url = "http://ws.audioscrobbler.com/2.0/?method=track.getInfo&artist=" + artist + "&track=" + track +"&api_key=4a23a53ccdf750dd38e56161e0741a7e&format=json";
-    var trackInfo = JSON.parse(httpGet(url));
-  
-    try {
-        cover = trackInfo['track']['album']['image'][1]["#text"];
-    }
-    catch(err) {
-        cover = "http://localhost:8081/energiafmplayer/img/no-cover.png";
-    }
-    
-    $("#cover img").attr("src", cover);
-}
 
 /** Make an http request and return the
  *  results in a string
@@ -124,16 +70,21 @@ function updateMetadata() {
                 previousTitle = title;
             
                 artist = json[0];
+                if (artist.length > 23) {
+                    artist = artist.substring(0, 20) + '...'; 
+                }
+
                 title = json[1];
-                
+                if (artist.length > 23) {
+                    title = title.substring(0, 20) + '...'; 
+                }
+
                 $("#artist").html(artist);
                 $("#title").html(title);
 
                 if (previousArtist != undefined) {
                     $("#previousSong").html(previousArtist + ' - ' + previousTitle);
                 }
-
-                changeCover(artist, title);
             }
         }
     });

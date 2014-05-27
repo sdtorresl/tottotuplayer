@@ -1,115 +1,187 @@
 @font-face {
-	font-family: impact;
-	src: url(../fonts/impact.ttf);
+	font-family: gotham;
+	src: url(../fonts/Gotham-BoldItalic.ttf);
 }
 html, body { 
 	display: table;
 	height: 100%;
 	width: 100%;
-	font-family: impact;
-	color: #333;
+	font-family: gotham;
+}
+aside {
+	float: left;
+}
+#controlContainer, #info, .followUs, .volume  {
+	display: inline-block;
 }
 #mainContainer {
 	display: table-cell;
 	vertical-align: middle;
 	height: 100%;
-	background: #eef;
+	background: #222222;
 }
-#playerContainer {
-	background: rgb(236,30,40);
-	background-image: url('../img/red-bg-stars.png');
-	width: 600px;
-	height: 140px;
+#logoBackground {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+.playerContainer {
+	background-image: url('../img/bg.png');
+	background-repeat: no-repeat;
+	max-width: 600px;
+	max-height: 140px;
 	margin-left: auto;
 	margin-right: auto;
 	display: table;
-	border-radius: 10px;
-	box-shadow: 10px 10px 5px #888888;
+	border-radius: 38px;
+	background-size: 594px 100%;
+	background-position: 1px 1px;
+	padding: 10px;
+	box-shadow: 10px 10px 7px rgb(20,20,20);
 }
 #controlContainer {
-	display: table-cell;
-	vertical-align: middle;
+	margin: 15px;
 }
-#controlContainer>div {
-	float: left;
-	background: white;
-	width: 90px;
-	height: 90px;
-	margin-left: 20px;
-	border-radius: 100%;
-}
-#controlContainer>div>img {
-	margin-top: 7px;
-	width: 75px;
-}
-
-#infoContainer {
-	width: 300px;
-	float: left;
-	margin-top: 5px;	
+#controlContainer>div>a>img {
+	width: 40px;
+	height: 50px;
 }
 #info {
-	background: url('../img/yellow-bg-begin.png'), url('../img/yellow-bg-middle.png'), url('../img/yellow-bg-end.png');
-	background-repeat: no-repeat, no-repeat, no-repeat;
-	background-position: 0 0, 50% 1px, 100% 0;
-	-webkit-background-size: 15% 100%, 70% 100%, 15% 100%;
-	background-size: 15% 100%, 70% 100%, 15% 100%;
+	margin-top: 15px;	
+	background: white;
 	height: 90px;
-}
-#infoBackground {
-	height: 85px;
-	width: 285px;
-	background-image: url('../img/info-bg.png');
-	background-repeat: repeat-x;
-	-webkit-background-size: 150px 100%;
-	background-size: 340px 100%;
-	background-position: 0 5px;
-	border-radius: 95px;
-	margin-left: 5px;
+	border: solid 3px rgb(255,217,15);
+	border-radius: 15px;
+	width: 300px;
+	font-size: 0.9em;
 }
 #currentSong {
-	padding-left: 30px;
+	padding-left: 10px;
 	padding-top: 15px;
 }
-#artist {
-	border-bottom: 2px solid rgb(236,30,40);
-	padding-bottom: 5px;
-	width: 90%;
+#artistContainer {
+	border-bottom: 2px dashed gray;
+	padding-bottom: 11px;
+	width: 95%;
 }
-#song {
+#songContainer {
 	padding-top: 5px;
 	width: 90%;
 }
+#title, #artist {
+	display: inline-block;
+}
+#volumeContainer {
+    background-image: url('../img/bg-begin.png'), url('../img/bg-end.png');
+    background-repeat: no-repeat;
+    background-position: 0px 0, 290px 0px;
+    background-size: 290px 29px, 45px 29px;
+    border-radius: 0px 0px 0px 30px;
+    margin-top: 10px;
+    height: 29px;
+}
+#volumeContainer {
+	color: white;
+	font-size: 14px;
+}
+#volumeContainer>span {
+	float: left;
+	margin-top: 5px;
+	margin-left: 15px;
+}
+div#volumeContainer>p {
+	position: relative;
+	top: -3px;
+}
 .volume {
-	margin-top: 10px;
+	margin-left: 20px;
+	display: inline-block;
 }
 .volumeControl {
+	height: 16px;
+	position: relative;
+	top: -2px;
+}
+.jp-volume-bar {
+	width: 135px;
+	height: 25px;
+	display: inline-block;
+	cursor: pointer;
+	position: relative;
+	top: 4px;
+}
+.jp-volume-bar-bg {
+	position: relative;
+	height: 10px;
+	background: white;
+	border-radius: 10px;
+	cursor: pointer;
+    margin-top: 7px;
+}
+.jp-volume-bar-value {
+	position: relative;
+    top: -10px;
+	height: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+	background: -moz-linear-gradient(left, rgba(232,139,37,1) 0%, rgba(248,178,87,0.8) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(232,139,37,1)), color-stop(100%,rgba(248,178,87,0.8))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, rgba(232,139,37,1) 0%,rgba(248,178,87,0.8) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, rgba(232,139,37,1) 0%,rgba(248,178,87,0.8) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, rgba(232,139,37,1) 0%,rgba(248,178,87,0.8) 100%); /* IE10+ */
+	background: linear-gradient(to right, rgba(232,139,37,1) 0%,rgba(248,178,87,0.8) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e88b25', endColorstr='#ccf8b257',GradientType=1 ); /* IE6-9 */
+}
+#volumeIcon {
+	width: 100%;
+}
+#volumeIcon img {
+	position: absolute;
+	right: 0px;
 	height: 20px;
+	top: -5px;
 }
 #logoContainer {
-	width: 180px;
-	background: none repeat scroll 0% 0% #FFF;
-	float: right;
-	border-radius: 120px 0px 0px 120px;
-	height: 140px;
+	width: 150px;
+	border-radius: 100px 30px 30px 60px;
+	height: 149px;
+    margin-left: 20px;
 }
 #logo img {
-	margin-top: 10px;
-	width: 130px;
-	float: right;
-	margin-right: 10px
+	margin: 20px 0px;
+	width: 140px;
 }
 .followUs {
 	float: right;
+	margin-left: 50px;
 }
 .followUs p {
 	margin-right: 10px;
 	margin-top: 5px;
 }
-.followUs a {
+a {
 	text-decoration: none;
 }
 .socialIcon {
 	max-width: 20px;
 	margin-left: 5px;
+}
+
+@media screen and (max-width:630px) {
+	#logoContainer {
+		display: none;
+	}
+	.playerContainer {
+		background: rgb(35,31,32);
+		border-radius: 30px;
+		box-shadow: 10px 10px 5px #888;
+		background-size: 100%;
+		background-position: 0;
+		padding: 0px;
+	}
+}
+@media screen and (max-width:435px) {
+	#logoContainer {
+		display: none;
+	}
 }

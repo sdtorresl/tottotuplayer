@@ -18,54 +18,72 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
 		<script src="js/jquery.jplayer.js" ></script>
 		<script src="js/main.js"></script>
+
+		<title>Totto Radio</title>
+		<link rel="icon" type="image/png" href="favicon.ico">
 	</head>
 
 	<body>
 
+		<div id="logoBackground">
+			<img src="img/logo-bg.png" alt="" width="150px" height="150px">
+		</div>
+
 		<div id="jquery_jplayer_1" class="jp-jplayer"></div>
 
 		<div id="mainContainer">
-			<div id="playerContainer">
+			<div id="jp_container_1" class="playerContainer">
 				
-				<aside id="controlContainer">
-					<div>
-						<img src="img/play-button.png" alt="">
-					</div>
-				</aside>
-
 				<aside id="infoContainer">
-						
+					<div id="controlContainer">
+						<div class="jp-controls">
+							<a href="javascript:;" class="jp-play" tabindex="1">
+								<img src="img/play-button.png" alt="">
+							</a>
+							<a href="javascript:;" class="jp-pause" tabindex="1">
+								<img src="img/stop-button.png" alt="">
+							</a>
+						</div>
+					</div>
+
 					<div id="info">
-						<div id="infoBackground">
-							<div id="currentSong">
-								<div id="artist">
-									<img src="img/artist.png" alt="">
-									Artista
-								</div>
-								<div id="song">
-									<img src="img/song.png" alt="">
-									Canción
-								</div>
+						<div id="currentSong">
+							<div id="artistContainer">
+								<img src="img/artist.png" alt="">
+								<p id="artist">Cargando Totto Radio...</p>
+							</div>
+							<div id="songContainer">
+								<img src="img/song.png" alt="">
+								<p id="title"></p>
 							</div>
 						</div>
 					</div>
 
-					<div class="volume">
-						<img class="volumeControl" src="img/microphone.png" alt="">
-						<img class="volumeControl" src="img/minus.png" alt="">
-						<span class="volume"></span>
-						<img class="volumeControl" src="img/plus.png" alt="">
-						<img class="volumeControl" src="img/phones.png" alt="">
-					</div>
-				</aside>
+					<div id="volumeContainer">
+						<span>
+						<img src="img/volume.png" alt="" style="display: inline-block">
+							<p style="display: inline-block">VOLUMEN</p>
+						</span>
+						<div class="volume">
+							<a href="javascript:;" class="jp-mute" tabindex="1" title="Mute">
+								<img class="volumeControl" src="img/minus.png" alt="">
+							</a>
+							
+							<div class="jp-volume-bar">
+								<div class="jp-volume-bar-bg"></div>
+								<div class="jp-volume-bar-value">
+									<div id="volumeIcon">
+										<img src="img/disc.png">
+									</div>
+								</div>
+							</div>
 
-				<aside id="logoContainer">
-					<div id="logo">
-						<img src="img/logo.png" alt="logo">
-					</div>
+							<a href="javascript:;" class="jp-volume-max" tabindex="1" title="Maximo volumen">
+								<img class="volumeControl" src="img/plus.png" alt="">
+							</a>
+						</div>
 
-					<div class="followUs">
-						<p>Síguenos en 
+						<div class="followUs">
 							<span>
 								<a href="https://www.facebook.com/tottotu?fref=ts" target="_blank">
 									<img class="socialIcon" src="img/facebook.png" alt="facebook">
@@ -77,7 +95,17 @@
 									<img class="socialIcon" src="img/twitter.png" alt="twitter">
 								</a>
 							</span>
-						</p>
+						</div>
+					</die>
+					
+				</aside>
+
+
+				<aside id="logoContainer">
+					<div id="logo">
+						<a href="http://totto.com" target="_bank">
+							<img src="img/logo.png" alt="logo">
+						</a>
 					</div>
 				</aside>
 			</div>
