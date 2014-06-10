@@ -71,12 +71,12 @@ function updateMetadata() {
             
                 artist = json[0];
                 if (artist.length > 23) {
-                    artist = artist.substring(0, 20) + '...'; 
+                    artist = artist.substring(0, 10) + '...'; 
                 }
 
                 title = json[1];
                 if (artist.length > 23) {
-                    title = title.substring(0, 20) + '...'; 
+                    title = title.substring(0, 10) + '...'; 
                 }
 
                 $("#artist").html(artist);

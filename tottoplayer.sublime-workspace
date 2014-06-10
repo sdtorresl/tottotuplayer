@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"relative"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
 				"IN",
 				"inline-block"
 			],
@@ -38,10 +50,6 @@
 			[
 				"inl",
 				"inline-block"
-			],
-			[
-				"re",
-				"repeat-x"
 			],
 			[
 				"no",
@@ -726,14 +734,16 @@
 	},
 	"file_history":
 	[
-		"/var/www/tottoplayer/js/main.js",
 		"/var/www/tottoplayer/index.html",
+		"/home/sergio/Downloads/Mejores Saber pro 20132 Apli829 v1.xlsx",
+		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/lcd.py",
+		"/var/www/tottoplayer/css/main.css",
+		"/var/www/tottoplayer/js/main.js",
 		"/home/sergio/Programming/Java/Android/AndroidTicTacToe/src/com/example/androidtictactoe/TicTacToe2.java",
 		"/home/sergio/Programming/Java/Triqui/TicTacToeConsole.java",
 		"/home/sergio/Programming/Java/Android/AndroidTicTacToe/src/com/example/androidtictactoe/TicTacToe.java",
 		"/var/www/tottoplayer/metadata.php",
 		"/var/www/tottotuplayer/index.html",
-		"/var/www/tottoplayer/css/main.css",
 		"/home/sergio/Documents/Datos yamaki",
 		"/home/sergio/Documents/Arquitectura de Computadores/AC May 20/Metodologías",
 		"/home/sergio/Downloads/codea-geeteedee_0.2.608_amd64(2).deb",
@@ -775,7 +785,6 @@
 		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/player_ecg.py",
 		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/player.py",
 		"/home/sergio/Documents/Flisol 2014",
-		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/scripts/lcd.py",
 		"/home/sergio/Documents/Trabajo/Player/src/ExeaInternetRadio/config.ini",
 		"/media/548da502-ebde-45c0-9ab2-de5e2431ee0b/home/pi/ExeaInternetRadio/scripts/player.py",
 		"/home/sergio/Documents/Redes/Tarea",
@@ -852,8 +861,7 @@
 		"/tmp/sublime-sftp-browse-1388453765/el02/var/www/vhosts/public/energia/cali/reproductor/index.html",
 		"/tmp/sublime-sftp-browse-1388452868/el02/var/www/vhosts/public/energia/online/reproductor/index.html",
 		"/home/sergio/Documents/Trabajo/Player for raspberry/lib/Raspberry_conn.mod",
-		"/tmp/sublime-sftp-browse-1388259838/raspberry/home/pi/myhome/myhome.py",
-		"/tmp/sublime-sftp-browse-1388259111/raspberry/home/pi/myhome/main.py"
+		"/tmp/sublime-sftp-browse-1388259838/raspberry/home/pi/myhome/myhome.py"
 	],
 	"find":
 	{
@@ -871,6 +879,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"volumeIco",
 			"img",
 			"png",
 			"info",
@@ -997,8 +1006,7 @@
 			"Iout(:, 1)",
 			"Ic",
 			"Ib",
-			"Ia",
-			"2,1"
+			"Ia"
 		],
 		"highlight": true,
 		"in_selection": false,
